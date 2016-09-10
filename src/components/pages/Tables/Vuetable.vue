@@ -252,6 +252,10 @@
     margin-right: 4px;
   }
 
+  .pagination {
+    display: inline-flex;
+  }
+
   .vuetable-pagination {
   }
 
@@ -262,6 +266,7 @@
   }
 
   .vuetable-pagination-component {
+    display: inline-flex;
     float: right;
   }
 
