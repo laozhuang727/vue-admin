@@ -121,6 +121,10 @@ export default [
       {
         link: 'Handsontable',
         label: 'Handsontable'
+      },
+      {
+        link: 'Vuetable',
+        label: 'Vuetable'
       }
     ]
   }

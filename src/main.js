@@ -162,6 +162,10 @@ router.map({
   '/tables/handsontable': {
     name: 'Handsontable',
     component: lazyLoading('./components/pages/Tables/Handsontable')
+  },
+  '/tables/vuetable': {
+    name: 'Vuetable',
+    component: lazyLoading('./components/pages/Tables/Vuetable')
   }
 })
 
